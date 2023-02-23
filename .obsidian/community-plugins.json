@@ -8,5 +8,7 @@
   "obsidian-git",
   "make-md",
   "obsidian-languagetool-plugin",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-latex",
+  "quick-latex"
 ]
