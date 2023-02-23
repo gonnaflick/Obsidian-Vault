@@ -5,7 +5,7 @@ En esta práctica se nos solicitó medir la corriente que consume una computador
 - Pinza amperímetro
 - Medidor de consumo de corriente
 Tambien debemos calcular la cantidad de potencia que consumirían 20 computadoras, suponiendo que tengan el mismo consumo que la computadora originalmente medida, dando un margen de seguridad del 20%.
-```ad-important
+```ad-note
 title: Importante
 Se debe considerar un factor de potencia del 70% a la hora de hacer el cálculo de la potencia obtenida.
 ```

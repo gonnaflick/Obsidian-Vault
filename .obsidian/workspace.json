@@ -11,8 +11,12 @@
             "id": "8eb7549ea4960f8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "octavo_semestre/administracion_computo/Practica 1/Practica 1.md"
+              }
             }
           }
         ]
@@ -148,10 +156,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d35f6964a42176e1",
+  "active": "8eb7549ea4960f8e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-02-21 12.14.34.excalidraw.md",
     "Excalidraw/Drawing 2023-02-21 12.14.48.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-21 12.14.34.excalidraw.md",
     "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
     "ruta/a/la/imagen.png.md",
     "ruta/a/la",
