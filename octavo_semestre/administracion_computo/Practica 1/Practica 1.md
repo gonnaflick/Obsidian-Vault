@@ -1,3 +1,6 @@
+---
+cssclass: custom
+---
 #### Cálculo de potencias para una sala de cómputo 
 
 ---
@@ -25,17 +28,16 @@ title: Parametros a tomar a consideracion:
 ---
 ## Medición de consumo de un equipo de cómputo
 El objetivo de esta medición es analizar el consumo de energía de una computadora en distintos escenarios de uso, con el fin de tener una idea hipotética del consumo que tendrían un conjunto de computadoras en un centro de cómputo para realizar un análisis al respecto.
+
 ```ad-warning
 title: Dato importante a considerar
 El equipo de computo el cual se utilizo para realizar las tomas cuenta con un regulador de voltaje. El voltaje sin regulador
 
 
+```
 | <center>**Voltaje sin regular**</center> | <center>**Voltaje regulado**</center> |
 | --- | --- | 
 | ![Voltaje sin regular](voltaje_sin_regular.jpg) | ![Voltaje regulado](voltaje_regulado.jpg) |
-```
-
-
 ### Escenarios de uso
 Para este caso tomé la decisión de analizar tres distintos casos en los que se encontró la computadora:
 * **Uso simple:** este escenario representa el consumo de energía cuando la computadora únicamente se encuentra ejecutando tareas simples como ejecución de programas de fondo, scripts, o simplemente la computadora se encuentra *encendida de fondo*. 

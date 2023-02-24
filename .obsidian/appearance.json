@@ -1,4 +1,8 @@
 {
   "accentColor": "#4e65c1",
-  "cssTheme": "Atom"
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "custom_table",
+    "custom"
+  ]
 }

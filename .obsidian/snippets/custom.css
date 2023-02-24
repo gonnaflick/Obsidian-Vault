@@ -1,0 +1,26 @@
+.custom {
+  border-collapse: collapse;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.custom th,
+.custom td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.custom th {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
+.custom tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.custom tr:nth-child(odd) {
+  background-color: transparent;
+}
