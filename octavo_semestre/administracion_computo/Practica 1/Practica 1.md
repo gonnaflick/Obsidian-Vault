@@ -35,7 +35,7 @@ El equipo de computo el cual se utilizo para realizar las tomas cuenta con un re
 
 
 ```
-| <center>**Voltaje sin regular**</center> | <center>**Voltaje regulado**</center> |
+| Voltaje sin regular | Voltaje regulado |
 | --- | --- | 
 | ![Voltaje sin regular](voltaje_sin_regular.jpg) | ![Voltaje regulado](voltaje_regulado.jpg) |
 ### Escenarios de uso
