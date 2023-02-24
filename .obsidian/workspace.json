@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,12 +165,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3631c1ac4f630324",
+  "active": "8eb7549ea4960f8e",
   "lastOpenFiles": [
     "octavo_semestre/administracion_computo/Practica 1/context.mdb",
+    "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
+    "octavo_semestre/RAZONES FINANCIERAS.pdf",
+    "css/custom.css.md",
+    "css",
     "octavo_semestre/administracion_computo/Practica 1/etc/voltaje_sin_regular.jpg",
     "octavo_semestre/administracion_computo/Practica 1/etc/voltaje_regulado.jpg",
-    "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
     "octavo_semestre/administracion_computo/Practica 1/etc/etc.md",
     "octavo_semestre/administracion_computo/Practica 1/etc/uso_minimo.jpg",
     "octavo_semestre/administracion_computo/Practica 1/etc/uso_maximo.jpg",
@@ -190,8 +194,6 @@
     "octavo_semestre/administracion_computo/etc",
     "octavo_semestre/administracion_computo/Practica 1",
     "octavo_semestre/administracion_computo/etc_practica_1",
-    "octavo_semestre/administracion_computo/context.mdb",
-    "octavo_semestre/taller_emprendedor/modelo_canvas.pdf",
     "octavo_semestre/taller_emprendedor/Modelo Canvas.md",
     "octavo_semestre/administracion_computo/Untitled 1.md",
     "octavo_semestre/administracion_computo/.md",
