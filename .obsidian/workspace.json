@@ -136,13 +136,21 @@
                 "file": "octavo_semestre/administracion_computo/Practica 1/Practica 1.md"
               }
             }
+          },
+          {
+            "id": "3631c1ac4f630324",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,12 +164,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8eb7549ea4960f8e",
+  "active": "3631c1ac4f630324",
   "lastOpenFiles": [
     "octavo_semestre/administracion_computo/Practica 1/context.mdb",
-    "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
     "octavo_semestre/administracion_computo/Practica 1/etc/voltaje_sin_regular.jpg",
     "octavo_semestre/administracion_computo/Practica 1/etc/voltaje_regulado.jpg",
+    "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
+    "octavo_semestre/administracion_computo/Practica 1/etc/etc.md",
     "octavo_semestre/administracion_computo/Practica 1/etc/uso_minimo.jpg",
     "octavo_semestre/administracion_computo/Practica 1/etc/uso_maximo.jpg",
     "octavo_semestre/administracion_computo/Practica 1/etc/uso_cotidiano.jpg",
