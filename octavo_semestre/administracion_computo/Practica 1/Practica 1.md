@@ -31,7 +31,7 @@ El objetivo de esta medición es analizar el consumo de energía de una computad
 
 ```ad-warning
 title: Dato importante a considerar
-El equipo de computo el cual se utilizo para realizar las tomas cuenta con un regulador de voltaje. El voltaje sin regulador
+A continueacion 
 
 
 | Voltaje sin regular | Voltaje regulado |
