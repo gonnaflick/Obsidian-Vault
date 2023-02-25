@@ -33,12 +33,14 @@ El objetivo de esta medición es analizar el consumo de energía de una computad
 title: Dato importante a considerar
 A continueacion 
 
+<div id="tabla_voltaje">
+
 
 | Voltaje sin regular | Voltaje regulado |
 | --- | --- | 
 | ![Voltaje sin regular](voltaje_sin_regular.jpg) | ![Voltaje regulado](voltaje_regulado.jpg) |
+</div>
 ```
-
 
 ### Escenarios de uso
 Para este caso tomé la decisión de analizar tres distintos casos en los que se encontró la computadora:

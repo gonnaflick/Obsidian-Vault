@@ -1,4 +1,4 @@
-.pepe table{
+#tabla_voltaje table{
   border-radius: 10px !important;
   overflow: hidden !important;
   border: none !important;
@@ -6,39 +6,39 @@
   border-collapse: collapse !important;
 }
 
-.pepe th,
-.pepe td {
+#tabla_voltaje th,
+#tabla_voltaje td {
   padding: 10px !important;
   text-align: center !important;
   border:none !important;  
 }
 
-.pepe th {
+#tabla_voltaje th {
   background-color: #222222 !important;
   color: white !important;
   font-weight: bold !important;
 }
 
-.pepe tr:nth-child(even) {
+#tabla_voltaje tr:nth-child(even) {
   background-color: #f2f2f2 !important;
 }
 
-.pepe tr:nth-child(odd) {
+#tabla_voltaje tr:nth-child(odd) {
   background-color: transparent !important;
 }
 
-.pepe tr:first-child th:first-child {
+#tabla_voltaje tr:first-child th:first-child {
   border-top-left-radius: 10px !important;
 }
 
-.pepe tr:first-child th:last-child {
+#tabla_voltaje tr:first-child th:last-child {
   border-top-right-radius: 10px !important;
 }
 
-.pepe tr:last-child td:first-child {
+#tabla_voltaje tr:last-child td:first-child {
   border-bottom-left-radius: 10px !important;
 }
 
-.pepe tr:last-child td:last-child {
+#tabla_voltaje tr:last-child td:last-child {
   border-bottom-right-radius: 10px !important;
 }

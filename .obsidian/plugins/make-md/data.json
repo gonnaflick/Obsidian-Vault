@@ -31,7 +31,13 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {},
+  "expandedFolders": {
+    "/": [
+      "octavo_semestre",
+      "octavo_semestre/administracion_computo",
+      "octavo_semestre/administracion_computo/Practica 1"
+    ]
+  },
   "expandedSpaces": [
     "/",
     null,
