@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2aa240d81098acee",
+        "id": "aad7f4177a24885e",
         "type": "tabs",
         "children": [
           {
-            "id": "ab68f441bc9c3a02",
+            "id": "c7f03af59e6b726c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
+                "file": "octavo_semestre/taller_emprendedor/Modelo Canvas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c230cb7c40cd071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "octavo_semestre/taller_emprendedor/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
+                "file": "octavo_semestre/taller_emprendedor/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
+                "file": "octavo_semestre/taller_emprendedor/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "octavo_semestre/administracion_computo/Practica 1/Practica 1.md"
+                "file": "octavo_semestre/taller_emprendedor/Untitled.md"
               }
             }
           },
@@ -165,13 +178,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab68f441bc9c3a02",
+  "active": "2c230cb7c40cd071",
   "lastOpenFiles": [
     "octavo_semestre/taller_emprendedor/Modelo Canvas.md",
+    "octavo_semestre/taller_emprendedor/Untitled.md",
     "octavo_semestre/taller_emprendedor/modelo_canvas.pdf",
     "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
-    "octavo_semestre/administracion_computo/Practica 1/context.mdb",
     "octavo_semestre/administracion_computo/Practica 1/practica_1.pdf",
+    "octavo_semestre/administracion_computo/Practica 1/context.mdb",
+    "Select Note.md",
+    "octavo_semestre/administracion_computo/Practica 1/etc/link.md",
     "octavo_semestre/administracion_computo/Practica 1/Practica1.pdf",
     "octavo_semestre/administracion_computo/Practica 1/8HW1_ACC - PRACTICA NO.1.pdf",
     "octavo_semestre/administracion_computo/Practica 1/etc/centro_computo.jpg",
@@ -184,7 +200,6 @@
     "octavo_semestre/administracion_computo/Practica 1/etc/uso_medio.jpg",
     "Excalidraw/Drawing 2023-02-24 22.00.38.excalidraw.md",
     "octavo_semestre/RAZONES FINANCIERAS.pdf",
-    "Untitled.md",
     "octavo_semestre/administracion_computo/Practica 1/etc/etc.md",
     "css/custom.css.md",
     "css",

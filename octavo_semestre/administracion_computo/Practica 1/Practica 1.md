@@ -1,6 +1,11 @@
 ---
 cssclass: custom
 banner: octavo_semestre/administracion_computo/Practica 1/etc/centro_computo.jpg
+Matricula: 338906
+Nombre: Jesus Alejandro Jimenez Hernandez
+GitHub: https://github.com/gonnaflick
+Fecha: 2023-02-25
+Universidad: Universidad Autonoma de Chihuahua
 ---
 #### Cálculo de potencias para una sala de cómputo 
 

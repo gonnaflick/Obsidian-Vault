@@ -1,3 +1,10 @@
+---
+Nombre: Jesus Alejandro Jimenez Hernandez
+Matricula: 338906
+GitHub: https://github.com/gonnaflick
+Fecha: 20/Feb/2023
+Universidad: Universidad Autonoma de Chihuahua
+---
 # Empresa: Kaiserberus
 ## Socios clave
 Nuestra empresa está enfocada en crear tecnología de validación de identidad mediante el uso de llaves físicas similares a las USB. Por lo tanto, nuestra compañía considera a **Yubico**, creadores de la tecnología de autenticación de dos pasos conocida como **FIDO2** y las llaves físicas **YubiKey**, como único socio clave. Sin embargo, consideraremos como socios clave también a las compañías que invierten directamente en Yubico, esto debido a que **nos vemos directamente dependientes de ellos.** Entre las compañías encontramos:
