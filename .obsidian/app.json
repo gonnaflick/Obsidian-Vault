@@ -17,5 +17,7 @@
     "en-US",
     "es-MX"
   ],
-  "trashOption": "none"
+  "trashOption": "none",
+  "readableLineLength": true,
+  "livePreview": true
 }

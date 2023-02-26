@@ -1,44 +1,100 @@
-#tabla_voltaje table{
+.custom table{
   border-radius: 10px !important;
+  overflow: hidden !important;
+  border: none !important;
+  border-spacing: 0 !important;
+  border-collapse: inherit !important;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.custom th,
+.custom td {
+  padding: 10px !important;
+  text-align: center !important;
+  border:1px solid black !important;  
+  white-space: nowrap;
+}
+
+.custom th {
+  background-color: black !important;
+  color: white !important;
+  font-weight: normal !important;
+}
+
+.custom tr:first-child th:first-child {
+  border-top-left-radius: 10px !important;
+}
+
+.custom tr:first-child th:last-child {
+  border-top-right-radius: 10px !important;
+}
+
+.custom tr:last-child td:first-child {
+  border-bottom-left-radius: 10px !important;
+}
+
+.custom tr:last-child td:last-child {
+  border-bottom-right-radius: 10px !important;
+}
+
+.custom table{
+  border-radius: 10px !important;
+  overflow: hidden !important;
+  border: none !important;
+  border-spacing: 0 !important;
+  border-collapse: inherit !important;
+}
+
+.custom th,
+.custom td {
+  padding: 10px !important;
+  text-align: center !important;
+  border:1px solid black !important;  
+}
+
+.custom th {
+  background-color: black !important;
+  color: white !important;
+}
+
+.custom tr:first-child th:first-child {
+  border-top-left-radius: 10px !important;
+}
+
+.custom tr:first-child th:last-child {
+  border-top-right-radius: 10px !important;
+}
+
+.custom tr:last-child td:first-child {
+  border-bottom-left-radius: 10px !important;
+}
+
+.custom tr:last-child td:last-child {
+  border-bottom-right-radius: 10px !important;
+}
+
+#tabla-voltajes table{
   overflow: hidden !important;
   border: none !important;
   border-spacing: 0 !important;
   border-collapse: collapse !important;
 }
 
-#tabla_voltaje th,
-#tabla_voltaje td {
-  padding: 10px !important;
+#tabla-voltajes th,
+#tabla-voltajes td {
+  padding-right: 50px !important;
+  padding-left: 50px !important;
   text-align: center !important;
-  border:none !important;  
+  border:0px solid black !important; 
 }
 
-#tabla_voltaje th {
-  background-color: #222222 !important;
-  color: white !important;
-  font-weight: bold !important;
-}
-
-#tabla_voltaje tr:nth-child(even) {
-  background-color: #f2f2f2 !important;
-}
-
-#tabla_voltaje tr:nth-child(odd) {
+#tabla-voltajes th {
   background-color: transparent !important;
 }
 
-#tabla_voltaje tr:first-child th:first-child {
-  border-top-left-radius: 10px !important;
-}
-
-#tabla_voltaje tr:first-child th:last-child {
-  border-top-right-radius: 10px !important;
-}
-
-#tabla_voltaje tr:last-child td:first-child {
-  border-bottom-left-radius: 10px !important;
-}
-
-#tabla_voltaje tr:last-child td:last-child {
-  border-bottom-right-radius: 10px !important;
+#tabla-voltajes tr {
+  background-color: transparent !important;
+  color: black !important;
 }

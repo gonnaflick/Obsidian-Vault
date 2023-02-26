@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3e547737163f1e78",
+        "id": "2aa240d81098acee",
         "type": "tabs",
         "children": [
           {
-            "id": "62ce0b4db6bac573",
+            "id": "ab68f441bc9c3a02",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "aef7fe86408ad60a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdb71d18ddf011bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +62,7 @@
             }
           },
           {
-            "id": "8c2760b1131eedc2",
+            "id": "acd3a940accad50f",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -114,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
+                "file": "octavo_semestre/administracion_computo/Practica 1/practica_1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
+                "file": "octavo_semestre/administracion_computo/Practica 1/practica_1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "octavo_semestre/administracion_computo/Practica 1/Practica 1.md"
+                "file": "octavo_semestre/administracion_computo/Practica 1/practica_1.pdf"
               }
             }
           },
@@ -186,38 +161,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cdb71d18ddf011bd",
+  "active": "d35f6964a42176e1",
   "lastOpenFiles": [
-    "octavo_semestre/administracion_computo/Practica 1/context.mdb",
+    "octavo_semestre/taller_emprendedor/modelo_canvas.pdf",
+    "octavo_semestre/taller_emprendedor/Modelo Canvas.md",
     "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
+    "octavo_semestre/administracion_computo/Practica 1/practica_1.pdf",
+    "octavo_semestre/administracion_computo/Practica 1/Practica1.pdf",
+    "octavo_semestre/administracion_computo/Practica 1/8HW1_ACC - PRACTICA NO.1.pdf",
+    "octavo_semestre/administracion_computo/Practica 1/context.mdb",
+    "octavo_semestre/administracion_computo/Practica 1/etc/centro_computo.jpg",
+    "octavo_semestre/administracion_computo/Practica 1/etc/voltaje_sin_regular.jpg.part",
+    "octavo_semestre/administracion_computo/Practica 1/etc/uso_minimo.jpg",
+    "octavo_semestre/administracion_computo/Practica 1/etc/voltaje_sin_regular.jpg",
+    "octavo_semestre/administracion_computo/Practica 1/etc/voltaje_regulado.jpg",
+    "octavo_semestre/administracion_computo/Practica 1/etc/uso_cotidiano.jpg",
+    "octavo_semestre/administracion_computo/Practica 1/etc/uso_maximo.jpg",
+    "octavo_semestre/administracion_computo/Practica 1/etc/uso_medio.jpg",
     "Excalidraw/Drawing 2023-02-24 22.00.38.excalidraw.md",
     "octavo_semestre/RAZONES FINANCIERAS.pdf",
-    "octavo_semestre/administracion_computo/Practica 1/etc/voltaje_sin_regular.jpg",
     "Untitled.md",
     "octavo_semestre/administracion_computo/Practica 1/etc/etc.md",
     "css/custom.css.md",
     "css",
-    "octavo_semestre/administracion_computo/Practica 1/etc/voltaje_regulado.jpg",
-    "octavo_semestre/administracion_computo/Practica 1/etc/uso_minimo.jpg",
-    "octavo_semestre/administracion_computo/Practica 1/etc/uso_maximo.jpg",
-    "octavo_semestre/administracion_computo/Practica 1/etc/uso_cotidiano.jpg",
     "Excalidraw/Drawing 2023-02-21 12.14.48.excalidraw.md",
     "Excalidraw/Drawing 2023-02-21 12.14.34.excalidraw.md",
     "ruta/a/la/imagen.png.md",
     "ruta/a/la",
     "ruta/a",
-    "ruta",
     "octavo_semestre/administracion_computo/Practica 1.md",
-    "octavo_semestre/administracion_computo/Practica 1/etc",
     "octavo_semestre/administracion_computo/etc/voltaje_sin_regular.jpg",
     "octavo_semestre/administracion_computo/etc/voltaje_regulado.jpg",
     "octavo_semestre/administracion_computo/etc/uso_minimo.jpg",
-    "octavo_semestre/administracion_computo/etc/uso_maximo.jpg",
-    "octavo_semestre/administracion_computo/etc/uso_cotidiano.jpg",
-    "octavo_semestre/administracion_computo/etc",
-    "octavo_semestre/administracion_computo/Practica 1",
-    "octavo_semestre/administracion_computo/etc_practica_1",
-    "octavo_semestre/taller_emprendedor/Modelo Canvas.md",
     "octavo_semestre/administracion_computo/Untitled 1.md",
     "octavo_semestre/administracion_computo/.md",
     "2023-02-20.md"
