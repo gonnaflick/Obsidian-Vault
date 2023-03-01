@@ -11,11 +11,9 @@
             "id": "b25445945c7622d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "octavo_semestre/taller_emprendedor/Planteamiento.md",
-                "mode": "source",
-                "source": false
+                "file": "octavo_semestre/taller_emprendedor/planteamiento.pdf"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "octavo_semestre/taller_emprendedor/Planteamiento.md",
+                "file": "octavo_semestre/taller_emprendedor/planteamiento.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "octavo_semestre/taller_emprendedor/Planteamiento.md",
+                "file": "octavo_semestre/taller_emprendedor/planteamiento.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "octavo_semestre/taller_emprendedor/Planteamiento.md"
+                "file": "octavo_semestre/taller_emprendedor/planteamiento.pdf"
               }
             }
           },
@@ -165,10 +163,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d35f6964a42176e1",
+  "active": "b25445945c7622d3",
   "lastOpenFiles": [
-    "octavo_semestre/taller_emprendedor/planteamiento.pdf",
     "octavo_semestre/taller_emprendedor/Planteamiento.md",
+    "octavo_semestre/taller_emprendedor/planteamiento.pdf",
     "octavo_semestre/taller_emprendedor/modelo_canvas.pdf",
     "octavo_semestre/taller_emprendedor/etc/FODA.drawio.svg",
     "octavo_semestre/taller_emprendedor/etc/FODA.png",
