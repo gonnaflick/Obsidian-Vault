@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,7 +165,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b25445945c7622d3",
+  "active": "d35f6964a42176e1",
   "lastOpenFiles": [
     "octavo_semestre/taller_emprendedor/planteamiento.pdf",
     "octavo_semestre/taller_emprendedor/Planteamiento.md",
