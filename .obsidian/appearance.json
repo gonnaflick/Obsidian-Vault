@@ -3,6 +3,7 @@
   "cssTheme": "",
   "enabledCssSnippets": [
     "custom_table",
-    "custom"
+    "custom",
+    "formal"
   ]
 }
