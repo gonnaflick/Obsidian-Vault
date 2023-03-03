@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "10acee5990e63cd3",
+        "id": "795faf19469aa378",
         "type": "tabs",
         "children": [
           {
-            "id": "b25445945c7622d3",
+            "id": "c69ae0d42885af70",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "octavo_semestre/taller_emprendedor/planteamiento.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -92,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "octavo_semestre/taller_emprendedor/planteamiento.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "octavo_semestre/taller_emprendedor/planteamiento.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "octavo_semestre/taller_emprendedor/planteamiento.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -164,10 +158,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b25445945c7622d3",
+  "active": "c69ae0d42885af70",
   "lastOpenFiles": [
-    "octavo_semestre/taller_emprendedor/Planteamiento.md",
     "octavo_semestre/taller_emprendedor/planteamiento.pdf",
+    "octavo_semestre/taller_emprendedor/Planteamiento.md",
     "octavo_semestre/taller_emprendedor/modelo_canvas.pdf",
     "octavo_semestre/taller_emprendedor/etc/FODA.drawio.svg",
     "octavo_semestre/taller_emprendedor/etc/FODA.png",
