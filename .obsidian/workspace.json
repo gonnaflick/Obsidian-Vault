@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c69ae0d42885af70",
+            "id": "9764afc2f42a852d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "octavo_semestre/redes_2/Clase 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "octavo_semestre/redes_2/Clase 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "octavo_semestre/redes_2/Clase 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "octavo_semestre/redes_2/Clase 1.md"
+              }
             }
           },
           {
@@ -158,11 +165,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c69ae0d42885af70",
+  "active": "9764afc2f42a852d",
   "lastOpenFiles": [
+    "octavo_semestre/taller_emprendedor/modelo_canvas.pdf",
+    "octavo_semestre/redes_2/Clase 1.md",
+    "octavo_semestre/administracion_computo/Practica 1/practica_1.pdf",
     "octavo_semestre/taller_emprendedor/planteamiento.pdf",
     "octavo_semestre/taller_emprendedor/Planteamiento.md",
-    "octavo_semestre/taller_emprendedor/modelo_canvas.pdf",
     "octavo_semestre/taller_emprendedor/etc/FODA.drawio.svg",
     "octavo_semestre/taller_emprendedor/etc/FODA.png",
     "octavo_semestre/taller_emprendedor/Modelo Canvas.md",
@@ -171,7 +180,6 @@
     "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
     "FODA.drawio.png.md",
     "FODA.drawio.png",
-    "octavo_semestre/administracion_computo/Practica 1/practica_1.pdf",
     "octavo_semestre/administracion_computo/Practica 1/context.mdb",
     "Select Note.md",
     "octavo_semestre/administracion_computo/Practica 1/etc/link.md",
