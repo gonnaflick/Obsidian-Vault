@@ -19,5 +19,6 @@
   ],
   "trashOption": "none",
   "readableLineLength": true,
-  "livePreview": true
+  "livePreview": true,
+  "alwaysUpdateLinks": true
 }

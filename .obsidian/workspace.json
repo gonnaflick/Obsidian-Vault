@@ -11,11 +11,9 @@
             "id": "62ea5a3addded881",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "octavo_semestre/microprocesadores/Reporte.md",
-                "mode": "source",
-                "source": false
+                "file": "practica-1_schematic.png"
               }
             }
           }
@@ -73,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "octavo_semestre/microprocesadores/Reporte.md",
+                "file": "practica-1_schematic.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "octavo_semestre/microprocesadores/Reporte.md",
+                "file": "practica-1_schematic.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "octavo_semestre/microprocesadores/Reporte.md"
+                "file": "practica-1_schematic.png"
               }
             }
           },
@@ -165,14 +164,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "62ea5a3addded881",
+  "active": "acd3a940accad50f",
   "lastOpenFiles": [
+    "practica-1_evidencia-2.png",
+    "practica-1_evidencia.png",
     "practica-1_breadboard.png",
     "practica-1_schematic.png",
-    "Pasted image 20230308115209.png",
-    "Pasted image 20230308115116.png",
-    "octavo_semestre/microprocesadores/Reporte.pdf",
     "octavo_semestre/microprocesadores/Reporte.md",
+    "octavo_semestre/microprocesadores/Reporte.pdf",
     "octavo_semestre/redes_2/Clase 1.md",
     "octavo_semestre/microprocesadores",
     "octavo_semestre/taller_emprendedor/modelo_canvas.pdf",
@@ -195,7 +194,6 @@
     "octavo_semestre/administracion_computo/Practica 1/etc/centro_computo.jpg",
     "octavo_semestre/administracion_computo/Practica 1/etc/uso_minimo.jpg",
     "octavo_semestre/administracion_computo/Practica 1/etc/voltaje_sin_regular.jpg",
-    "octavo_semestre/administracion_computo/Practica 1/etc/voltaje_regulado.jpg",
     "Excalidraw/Drawing 2023-02-24 22.00.38.excalidraw.md",
     "octavo_semestre/administracion_computo/Practica 1/etc/etc.md",
     "css/custom.css.md",

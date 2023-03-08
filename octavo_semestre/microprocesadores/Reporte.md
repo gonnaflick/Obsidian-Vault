@@ -40,4 +40,4 @@ void loop() {
 A continuación se muestra el diagrama de conexión del circuito:
 
 Finalmente se incluye la foto de evidencia del laboratorio:
-![[Pasted image 20230308115116.png]]![[Pasted image 20230308115209.png]]
+![[practica-1_evidencia.png]]![[practica-1_evidencia-2.png]]
