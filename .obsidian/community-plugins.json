@@ -10,5 +10,7 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-latex",
   "quick-latex",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "code-block-copy",
+  "obsidian-codemirror-options"
 ]
