@@ -1,0 +1,23 @@
+table{
+  overflow: hidden !important;
+  border: none !important;
+  border-spacing: 0 !important;
+  border-collapse: collapse !important;
+}
+
+th,
+td {
+  padding-right: 10px !important;
+  padding-left: 10px !important;
+  text-align: center !important;
+  border:0px solid black !important; 
+}
+
+th {
+  background-color: transparent !important;
+}
+
+tr {
+  background-color: transparent !important;
+  color: black !important;
+}

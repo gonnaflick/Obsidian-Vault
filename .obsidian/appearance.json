@@ -4,6 +4,7 @@
   "enabledCssSnippets": [
     "custom_table",
     "custom",
-    "formal"
+    "formal",
+    "no-table"
   ]
 }

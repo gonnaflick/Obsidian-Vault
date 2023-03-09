@@ -1,3 +1,6 @@
+---
+cssclass: no-table
+---
 ##### Prácticas de laboratorio
 ---
 # Introducción
@@ -39,7 +42,10 @@ void loop() {
 }
 ```
 A continuación se muestra el diagrama de conexión del circuito:
-![[practica-1_breadboard.png]]![[practica-1_schematic.png]]
+
+| ![breadboard](practica-1_breadboard.png) | ![schematic](practica-1_schematic.png) |
+| ---------------------------------------- | -------------------------------------- |
+
 Finalmente se incluye la foto de evidencia del laboratorio:
 ![[practica-1_evidencia.png]]![[practica-1_evidencia-2.png]]
 Practica 2 – Delay con potenciómetro
