@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d531772a9ad6fa59",
+        "id": "1629c4e29ce6ab22",
         "type": "tabs",
         "children": [
           {
-            "id": "a3ac73724407c55b",
+            "id": "e29a5d69abeaa2ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte.md",
+                "file": "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte - Prácticas de laboratorio.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte.md",
+                "file": "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte - Prácticas de laboratorio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte.md",
+                "file": "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte - Prácticas de laboratorio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte.md"
+                "file": "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte - Prácticas de laboratorio.md"
               }
             }
           },
@@ -165,36 +165,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3ac73724407c55b",
+  "active": "e29a5d69abeaa2ae",
   "lastOpenFiles": [
-    "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte.md",
-    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-1_schematic.png",
+    "Pasted image 20230309013236.png",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte - Prácticas de laboratorio.md",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-5/practica-5_breadboard.svg",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-5/practica-5_schematic.svg",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-5/practica-5.fzz",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-4/practica-4_breadboard.svg",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-4/practica-4_schematic.svg",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-4/practica-4.fzz",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-5/practica-5_evidencia.png",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-5",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-4/practica-4_evidencia.png",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-4/practica-4_evidencia",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-4/practica-4_evidencia.part",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-4/practica-5_evidencia.png",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-4",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-3/practica-3_evidencia.png",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-3/practica-3_evidencia-2.png",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-3/practica-3_evidencia-2",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-3/practica-3_evidencia-2.part",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-3/practica-3_breadboard.svg",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-3/practica-3.fzz",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-2/practica-3.fzz",
+    "octavo_semestre/taller_emprendedor/Planteamiento.md",
     "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
-    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-1_breadboard.png",
-    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-1_evidencia.png",
-    "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte.pdf",
-    "octavo_semestre/microprocesadores/reporte_parcial-1/Practica 1.pdf",
-    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-1_evidencia-2.png",
-    "octavo_semestre/microprocesadores/reporte_parcial-1",
-    "octavo_semestre/microprocesadores/reporte_parcial-1/etc",
     "octavo_semestre/redes_2/Clase 1.md",
     "octavo_semestre/taller_emprendedor/Modelo Canvas.md",
-    "octavo_semestre/taller_emprendedor/Planteamiento.md",
-    "octavo_semestre/taller_emprendedor/modelo_canvas.pdf",
-    "octavo_semestre/microprocesadores",
-    "octavo_semestre/administracion_computo/Practica 1/practica_1.pdf",
-    "octavo_semestre/taller_emprendedor/planteamiento.pdf",
-    "octavo_semestre/taller_emprendedor/etc/FODA.drawio.svg",
-    "octavo_semestre/taller_emprendedor/etc/FODA.png",
-    "octavo_semestre/taller_emprendedor/Modelo Canvas.pdf",
-    "octavo_semestre/taller_emprendedor/etc",
     "FODA.drawio.png.md",
-    "FODA.drawio.png",
     "Select Note.md",
     "octavo_semestre/administracion_computo/Practica 1/etc/link.md",
-    "octavo_semestre/administracion_computo/Practica 1/etc/centro_computo.jpg",
-    "octavo_semestre/administracion_computo/Practica 1/etc/uso_minimo.jpg",
-    "octavo_semestre/administracion_computo/Practica 1/etc/voltaje_sin_regular.jpg",
     "Excalidraw/Drawing 2023-02-24 22.00.38.excalidraw.md",
     "octavo_semestre/administracion_computo/Practica 1/etc/etc.md",
     "css/custom.css.md",

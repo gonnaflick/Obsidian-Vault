@@ -1,3 +1,12 @@
+.markdown-source-view {
+  font-family: 'JetBrainsMono Nerd Font', Menlo, Monaco, 'Courier New', monospace !important;
+}
+
+.markdown-preview-view {
+  font-family: Lora, sans-serif !important;
+  font-size: 12px;
+}
+
 table{
   overflow: hidden !important;
   border: none !important;
@@ -20,4 +29,10 @@ th {
 tr {
   background-color: transparent !important;
   color: black !important;
+}
+
+img {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
