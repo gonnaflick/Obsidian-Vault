@@ -1,9 +1,9 @@
---
+---
 cssclass: no-table
 ---
 ---
 # Introducción
-Durante este primer parcial se trabajó con el microcontrolador Arduino Uno y nos enfocamos en aprender todas las opciones que este ofrece, tales como
+Durante este primer parcial se trabajó con el microcontrolador Arduino Uno y nos enfocamos en aprender todas las opciones que este ofrece, tales como:
 - Interrupciones
 - Timers
 - Señales de tipo:
@@ -42,15 +42,15 @@ void loop() {
   delay(1);
 }
 ```
-### Diagrama de conexión y esquemático
+### Diagrama de conexión
 
-![breadboard|600](practica-1_breadboard.svg)
-![schematic|500](practica-1_schematic.svg)
+![breadboard|650](practica-1_breadboard.svg)
 
 ### Evidencia
 
-| ![evidencia](practica-1_evidencia.png) | ![evidencia2](practica-1_evidencia-2.png) |
-| ---------------------------------------- | -------------------------------------- |
+![evidencia|500](practica-1_evidencia.png)
+![evidencia2|500](practica-1_evidencia-2.png) 
+
 <div style="page-break-after: always;"></div>
 
 ## Practica 2 - Delay con potenciómetro
@@ -73,14 +73,14 @@ void loop() {
 }
 
 ```
-### Diagrama de conexión y esquemático
+### Diagrama de conexión
 
-![breadboard|600](practica-1_breadboard.svg)
-![schematic|500](practica-1_schematic.svg)
+![breadboard|650](practica-1_breadboard.svg)
 
 ### Evidencia
-| ![evidencia](practica-2_evidencia.png) | ![evidencia2](practica-2_evidencia-2.png) |
-| ---------------------------------------- | -------------------------------------- |
+![evidencia|500](practica-2_evidencia.png)
+![evidencia2|500](practica-2_evidencia-2.png)
+
 <div style="page-break-after: always;"></div>
 
 ## Practica 3 – Control de voltaje con potenciómetro
@@ -99,18 +99,19 @@ void loop() {
   Serial.println(5*potenRead/1023);
 }
 ```
-### Diagrama de conexión y esquemático
+### Diagrama de conexión
 
-![breadboard|600](practica-3_breadboard.svg)
-![schematic|500](practica-3_schematic.svg)
+![breadboard|300](practica-3_breadboard.svg)
 
 ### Evidencia
 | ![evidencia](practica-3_evidencia.png) | ![evidencia2](practica-3_evidencia-2.png) |
 | ---------------------------------------- | -------------------------------------- |
 <div style="page-break-after: always;"></div>
+
 ## Practica 4 – PWM con push button
-Con esta practica buscamos comprender el funcionamiento y la utilidad de los pulsos PWM al aplicarlos sobre un foco led. Para el funcionamiento entendemos que, como el nombre indica los **pulsos PWM** son claramente pulsos, es decir, subidas y bajadas rápidas de voltaje en intervalos definidos. En este caso utilizamos los pulsos para implementar un foco led que se enciende y apaga de forma gradual en lugar de cambiarse instantáneamente.
+Con esta práctica buscamos comprender el funcionamiento y la utilidad de los pulsos PWM al aplicarlos sobre un foco led. Para el funcionamiento entendemos que, como el nombre indica, los **pulsos PWM** son claramente pulsos, es decir, subidas y bajadas rápidas de voltaje en intervalos definidos. En este caso utilizamos los pulsos para implementar un foco led que se enciende y apaga de forma gradual en lugar de cambiarse instantáneamente.
 ### Códigos utilizados
+
 ```cpp
 int pushButton = 2;
 int ledPin = 13;
@@ -130,18 +131,19 @@ void loop(){
   delay(1);
 }
 ```
-### Diagrama de conexión y esquemático
-![breadboard|600](practica-4_breadboard.svg)
-![schematic|500](practica-4_schematic.svg)
+
+### Diagrama de conexión
+![breadboard|550](practica-4_breadboard.svg)
 
 ### Evidencia
-![evidencia](practica-4_evidencia.png)
+![evidencia|500](practica-4_evidencia.png)
 
 <div style="page-break-after: always;"></div>
 
 ## Practica 5 – PWM con Fade In y Fade Out
-Con esta practica buscamos comprender el funcionamiento y la utilidad de los pulsos PWM al aplicarlos sobre un foco led. Para el funcionamiento entendemos que, como el nombre indica los **pulsos PWM** son claramente pulsos, es decir, subidas y bajadas rápidas de voltaje en intervalos definidos. En este caso utilizamos los pulsos para implementar un foco led que se enciende y apaga de forma gradual en lugar de cambiarse instantáneamente.
+Con esta práctica buscamos comprender el funcionamiento y la utilidad de los pulsos PWM al aplicarlos sobre un foco led. Para el funcionamiento entendemos que, como el nombre indica, los **pulsos PWM** son claramente pulsos, es decir, subidas y bajadas rápidas de voltaje en intervalos definidos. En este caso utilizamos los pulsos para implementar un foco led que se enciende y apaga de forma gradual en lugar de cambiarse instantáneamente.
 ### Código utilizado
+
 ```cpp
 int ledPin = 13;
 int cont = 0;
@@ -160,12 +162,12 @@ void loop() {
     analogWrite(ledPin, fadeValue);
 }
 ```
-### Diagrama de conexión y esquemático
+
+### Diagrama de conexión
 ![breadboard|600](practica-5_breadboard.svg)
-![schematic|500](practica-5_schematic.svg)
 
 ### Evidencia
-![evidencia](practica-5_evidencia.png)
+![evidencia|500](practica-5_evidencia.png)
 
 <div style="page-break-after: always;"></div>
 
@@ -189,12 +191,14 @@ void loop() {
   delay(1);
 }
 ```
-### Diagrama de conexión y esquemático
-![breadboard|600](practica-6_breadboard.svg)
-![schematic|500](practica-6_schematic.svg)
+### Diagrama de conexión
+![breadboard|300](practica-6_breadboard.svg)
 
 ### Evidencia
-![evidencia](practica-6_evidencia.png)
+![evidencia|300](practica-6_evidencia.jpg)
+
+<div style="page-break-after: always;"></div>
+
 ## Práctica 7 - Interrupción
 En el circuito de esta práctica utilizamos de nuevo el pin 2 como entrada digital del botón pulsador, pero además le asociamos una interrupción que se ejecuta cuando detecta una transición `LOW` en dicho pin. En nuestro caso el servicio de interrupción es llamado `ServicioBoton` y lo que hace es incrementar en 1 el valor del contador. En el servicio de interrupción utilizamos la variable `T0` y la función `millis()` para evitar que el contador detecte pulsaciones “fantasma”. Por último, se muestra el número de veces que se presiona el botón en el serial monitor.
 ### Código utilizado
@@ -203,8 +207,6 @@ int contador = 0;
 int n = contador;
 
 void setup() {
-  // initialize serial communication at 9600 bits per second:
- 
   Serial.begin(9600);
   attachInterrupt(0, ServicioBoton, FALLING);
 
@@ -221,46 +223,56 @@ void ServicioBoton(){
   contador++;
 }
 ```
-### Diagrama de conexión y esquemático
-![breadboard|600](practica-7_breadboard.svg)
-![schematic|500](practica-7_schematic.svg)
+### Diagrama de conexión
+En esta práctica no se requirió realizar ninguna conexión. El Arduino realizaba el cálculo interno.
 
 ### Evidencia
-![evidencia](practica-7_evidencia.png)
+![evidencia|400](practica-7_evidencia.jpg)
+
+<div style="page-break-after: always;"></div>
+
 ## Práctica 8 - LED con interrupciones
-En este circuito utilizamos un `timer![[Pasted image 20230309013236.png]]![[Pasted image 20230309013236.png]]![[Pasted image 20230309013236.png]]`, el cual asociamos con una interrupción que se activa al alcanzar la cuenta máxima. El servicio de interrupción `ISR_Blink` se encarga de cambiar el estado del LED en el pin 13, además de aumentar un contador que señala en número de parpadeos del LED. Finalmente, el serial monitor muestra el valor del contador o número de ciclos del LED.
+En este circuito utilizamos un `timer`, el cual asociamos con una interrupción que se activa al alcanzar la cuenta máxima. El servicio de interrupción `ISR_Blink` se encarga de cambiar el estado del LED en el pin 13, además de aumentar un contador que señala en número de parpadeos del LED. Finalmente, el serial monitor muestra el valor del contador o número de ciclos del LED.
 
 ```cpp
-volatile int contador = 0;
-int n = contador;
-long T0 = 0;
+#include<TimerOne.h>
+const int led = 13;
+int ledState = LOW;
+volatile unsigned long blinkCount = 0;
 
 void setup() {
-  pinMode(2, INPUT);
+  pinMode(led, OUTPUT);
+  Timer1.initialize(250000);
+  
   Serial.begin(9600);
-  attachInterrupt(0, ServicioBoton, LOW);
+  Timer1.attachInterrupt(0, ServicioBoton, LOW);
+}
+
+void ISR_Blink() {
+  ledState = !ledState;
+  blinkCount++;
 }
 
 void loop() {
-  if (n != contador){ 
-    Serial.println(contador);
-    n = contador;
-  }
-}
+  unsigned long N;
+  digitalWrite(led, ledState);
+  noInterrupts();
+  N = blinkCount;
+  interrupts();
+  Serial.print("Ciclos=");
+  Serial.println(N);
+  delay(500);
 
-void ServicioBoton(){
-  if(millis() > T0 + 250) {
-    contador++;
-    T0 = millis();
-  } 
 }
 ```
-### Diagrama de conexión y esquemático
-![breadboard|600](practica-8_breadboard.svg)
-![schematic|500](practica-5\8_schematic.svg)
+### Diagrama de conexión
+![breadboard|300](practica-8_breadboard.svg)
 
 ### Evidencia
-![evidencia](practica-8_evidencia.png)
+![evidencia|500](practica-8_evidencia.png)
+
+<div style="page-break-after: always;"></div>
+
 ## Práctica 9 - RPM con push button
 Para el circuito de esta práctica utilizamos de nuevo las interrupciones, dos en este caso. La primera está asociada al pin 2 y se activa cuando se oprimen el botón pulsador. Este servicio de interrupción `ServicioBoton` incrementa en 1 el contador de las pulsaciones, usando a la vez la función milis para evitar pulsaciones “fantasma” o demasiado rápidas. Por su parte, la segunda interrupción está asociada a un `timer` y se ejecuta cada segundo. El servicio de interrupción `ISR_Blink` incrementa en 1 el contador del tiempo y cuando alcanza el valor de 60 segundos muestra la información sobre la cantidad de pulsaciones y realiza una operación para obtener las revoluciones por minuto (RPM).
 
@@ -314,20 +326,27 @@ void loop() {
   delay(1);
 }
 ```
-### Diagrama de conexión y esquemático
-![breadboard|600](practica-9_breadboard.svg)
-![schematic|500](practica-9_schematic.svg)
+### Diagrama de conexión
+![breadboard|400](practica-9_breadboard.svg)
 
 ### Evidencia
-![evidencia](practica-9_evidencia.png)
+![evidencia|400](practica-9_evidencia.jpg)
+
+<div style="page-break-after: always;"></div>
+
 ## Practica 10 - Sensor IR
 Para esta práctica se utilizó dos diodos fototransistores, uno con capacidad de transmitir una señal infrarroja y otro con la capacidad de recibir dicha señal. El circuito únicamente tenía que encender un LED además de que no se necesitaba el uso de un Arduino (salvo el voltaje que este proporciona). Este circuito análogo tiene como objetivo ser utilizado en la última práctica de este parcial.
-### Diagrama de conexión y esquemático
-![breadboard|600](practica-10_breadboard.svg)
-![schematic|500](practica-10_schematic.svg)
+### Código utilizado
+Al ser un circuito análogo no fue necesario realizar código.
+
+### Diagrama de conexión
+![breadboard|450](practica-10_breadboard.svg)
 
 ### Evidencia
-![evidencia](practica-10_evidencia.png)
+![evidencia|450](practica-10_evidencia.jpg)
+
+<div style="page-break-after: always;"></div>
+
 ## Practica Final - Medición de RPM de un ventilador con sensor IR
 Esta práctica final busca combinar el circuito de RPM con push button y el sensor IR, donde este último realizara la tarea del push button al ser colocado uno de los sensores detrás de las aspas del ventilador y otro frente a las aspas. La idea es simple, las aspas bloquearán la señal infrarroja y de esta forma se medirán las revoluciones por minuto. Debido a que nuestro ventilador cuenta con 7 aspas, estas serán incluidas en la fórmula. Como dato adicional, se requirió una fuente de alimentación exclusiva para el ventilador (en nuestro caso una batería de ácido plomo de 12 volts).
 ### Código utilizado
@@ -379,9 +398,8 @@ void loop() {
   delay(1);
 }
 ```
-### Diagrama de conexión y esquemático
-![breadboard|600](practica-final_breadboard.svg)
-![schematic|500](practica-final_schematic.svg)
+### Diagrama de conexión
+![breadboard|450](practica-final_breadboard.svg)
 
 ### Evidencia
-![evidencia](practica-final_evidencia.png)
+![evidencia|450](practica-final_evidencia.jpg)
