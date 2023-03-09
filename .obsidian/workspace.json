@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "142a692dc5d90e9b",
+        "id": "ab04f9cb71ed9c92",
         "type": "tabs",
         "children": [
           {
-            "id": "62ea5a3addded881",
+            "id": "21021593e957c3d1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "practica-1_schematic.png"
+                "file": "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -71,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "practica-1_schematic.png",
+                "file": "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "practica-1_schematic.png",
+                "file": "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "practica-1_schematic.png"
+                "file": "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte.md"
               }
             }
           },
@@ -164,33 +165,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "acd3a940accad50f",
+  "active": "21021593e957c3d1",
   "lastOpenFiles": [
-    "practica-1_evidencia-2.png",
-    "practica-1_evidencia.png",
-    "practica-1_breadboard.png",
-    "practica-1_schematic.png",
-    "octavo_semestre/microprocesadores/Reporte.md",
-    "octavo_semestre/microprocesadores/Reporte.pdf",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte.pdf",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte.md",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/Practica 1.pdf",
+    "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-1_schematic.png",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-1_breadboard.png",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-1_evidencia.png",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-1_evidencia-2.png",
+    "octavo_semestre/microprocesadores/reporte_parcial-1",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/etc",
     "octavo_semestre/redes_2/Clase 1.md",
-    "octavo_semestre/microprocesadores",
+    "octavo_semestre/taller_emprendedor/Modelo Canvas.md",
+    "octavo_semestre/taller_emprendedor/Planteamiento.md",
     "octavo_semestre/taller_emprendedor/modelo_canvas.pdf",
+    "octavo_semestre/microprocesadores",
     "octavo_semestre/administracion_computo/Practica 1/practica_1.pdf",
     "octavo_semestre/taller_emprendedor/planteamiento.pdf",
-    "octavo_semestre/taller_emprendedor/Planteamiento.md",
     "octavo_semestre/taller_emprendedor/etc/FODA.drawio.svg",
     "octavo_semestre/taller_emprendedor/etc/FODA.png",
-    "octavo_semestre/taller_emprendedor/Modelo Canvas.md",
     "octavo_semestre/taller_emprendedor/Modelo Canvas.pdf",
     "octavo_semestre/taller_emprendedor/etc",
-    "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
     "FODA.drawio.png.md",
     "FODA.drawio.png",
-    "octavo_semestre/administracion_computo/Practica 1/context.mdb",
     "Select Note.md",
     "octavo_semestre/administracion_computo/Practica 1/etc/link.md",
-    "octavo_semestre/administracion_computo/Practica 1/Practica1.pdf",
-    "octavo_semestre/administracion_computo/Practica 1/8HW1_ACC - PRACTICA NO.1.pdf",
     "octavo_semestre/administracion_computo/Practica 1/etc/centro_computo.jpg",
     "octavo_semestre/administracion_computo/Practica 1/etc/uso_minimo.jpg",
     "octavo_semestre/administracion_computo/Practica 1/etc/voltaje_sin_regular.jpg",

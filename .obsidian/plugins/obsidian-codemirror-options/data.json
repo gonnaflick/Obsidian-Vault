@@ -14,7 +14,7 @@
   "foldLinks": false,
   "foldImages": false,
   "containerAttributes": false,
-  "syntaxHighlighting": false,
+  "syntaxHighlighting": true,
   "autoAlignTables": false,
   "renderCode": false,
   "renderHTML": false,
