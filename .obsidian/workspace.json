@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c6ed32c924021eb1",
+        "id": "3c6873155ac76b76",
         "type": "tabs",
         "children": [
           {
-            "id": "3febd5b790bff89a",
+            "id": "310d5cf88abee19d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte - Prácticas de laboratorio.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,8 +165,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3febd5b790bff89a",
+  "active": "310d5cf88abee19d",
   "lastOpenFiles": [
+    "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte - Prácticas de laboratorio.pdf",
+    "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte - Prácticas de laboratorio.md",
     "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-7/practica-7_evidencia.jpg",
     "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-8/practica-8_evidencia.png",
     "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-8/practica-5_evidencia.png",
@@ -182,10 +183,7 @@
     "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-9/practica-9_breadboard.svg",
     "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-final/Untitled Sketch 8.fzz",
     "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-final/practica-final_breadboard.svg",
-    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-10/practica-10_breadboard.svg",
     "practica-final_breadboard.svg.md",
-    "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte - Prácticas de laboratorio.md",
-    "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte - Prácticas de laboratorio.pdf",
     "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-final",
     "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-10",
     "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-9",
