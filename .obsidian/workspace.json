@@ -11,9 +11,11 @@
             "id": "e2d31cd349c39e70",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "octavo_semestre/taller_emprendedor/planteamiento.pdf"
+                "file": "octavo_semestre/taller_emprendedor/Investigacion de Mercado.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "octavo_semestre/taller_emprendedor/planteamiento.pdf",
+                "file": "octavo_semestre/taller_emprendedor/Investigacion de Mercado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "octavo_semestre/taller_emprendedor/planteamiento.pdf",
+                "file": "octavo_semestre/taller_emprendedor/Investigacion de Mercado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "octavo_semestre/taller_emprendedor/planteamiento.pdf"
+                "file": "octavo_semestre/taller_emprendedor/Investigacion de Mercado.md"
               }
             }
           },
@@ -166,8 +168,10 @@
   },
   "active": "e2d31cd349c39e70",
   "lastOpenFiles": [
-    "octavo_semestre/taller_emprendedor/modelo_canvas.pdf",
+    "Pasted image 20230315154913.png",
+    "octavo_semestre/taller_emprendedor/planteamiento.pdf",
     "octavo_semestre/taller_emprendedor/Investigacion de Mercado.md",
+    "octavo_semestre/taller_emprendedor/modelo_canvas.pdf",
     "octavo_semestre/proyecto_emprendedor/definiciones.md",
     "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte - Prácticas de laboratorio.md",
     "octavo_semestre/proyecto_emprendedor",
@@ -189,8 +193,6 @@
     "practica-final_breadboard.svg.md",
     "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-final",
     "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-10",
-    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-9",
-    "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-8",
     "octavo_semestre/taller_emprendedor/Planteamiento.md",
     "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
     "octavo_semestre/redes_2/Clase 1.md",
