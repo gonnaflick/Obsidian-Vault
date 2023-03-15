@@ -1,10 +1,5 @@
 vlog, cortos, directos, contrasena
 
-
-
-
-
-
 Vlog: 
 - Definicion: Un blog que contiene material de video.
 - Termino sajon: Esta palabra se escribe igual tanto en el espanol como en el ingles.
