@@ -6,12 +6,12 @@
   "obsidian-pandoc",
   "obsidian-git",
   "make-md",
-  "obsidian-languagetool-plugin",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-latex",
   "quick-latex",
   "obsidian-excalidraw-plugin",
   "code-block-copy",
   "obsidian-codemirror-options",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-languagetool-plugin"
 ]
