@@ -19,9 +19,8 @@ En Kaiserberus, nuestra visión es ser reconocidos como el servicio más seguro 
 ## Específicos
 ```ad-summary
 title: Objetivos enfocados al mediano/largo plazo.
-- Obtener los contactos necesarios para impulsar el crecimiento, establecimiento y reconocimiento de la empresa.
+- Obtener el reconocimiento de nuestro público objetivo (personas y empresas que consideran importante su seguridad informática) como una empresa confiable que cuenta con productos de calidad.
 - Realizar la contratación de personal especializado que impulse el desarrollo demuestras tecnologías.
-- Recolectar los recursos físicos y financieros necesarios, mientras mantenemos estabilidad financiera.
 ```
 
 ```ad-important
