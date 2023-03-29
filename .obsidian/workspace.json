@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49f0c9d80407e4b4",
+            "id": "6139cdc18a87b8dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6139cdc18a87b8dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analisis externo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisis externo.md",
+                "file": "Asesoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analisis externo.md",
+                "file": "Asesoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisis externo.md"
+                "file": "Asesoria.md"
               }
             }
           },
@@ -180,10 +167,10 @@
   },
   "active": "6139cdc18a87b8dd",
   "lastOpenFiles": [
-    "Asesoria.md",
-    "Analisis externo.md",
     "Lunes 27 Marzo, Simulacion de sistemas.md",
     "Martes 28 de Marzo, Simulacion de sistemas.md",
+    "Asesoria.md",
+    "Analisis externo.md",
     "octavo_semestre/taller_emprendedor/Investigacion de Mercado.md",
     "octavo_semestre/taller_emprendedor/Planteamiento.md",
     "octavo_semestre/proyecto_emprendedor/definiciones.md",
