@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asesoria.md",
+                "file": "Analisis Interno.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asesoria.md",
+                "file": "Analisis Interno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asesoria.md",
+                "file": "Analisis Interno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asesoria.md"
+                "file": "Analisis Interno.md"
               }
             }
           },
@@ -167,10 +168,11 @@
   },
   "active": "6139cdc18a87b8dd",
   "lastOpenFiles": [
+    "Analisis externo.md",
+    "Asesoria.md",
+    "Analisis Interno.md",
     "Lunes 27 Marzo, Simulacion de sistemas.md",
     "Martes 28 de Marzo, Simulacion de sistemas.md",
-    "Asesoria.md",
-    "Analisis externo.md",
     "octavo_semestre/taller_emprendedor/Investigacion de Mercado.md",
     "octavo_semestre/taller_emprendedor/Planteamiento.md",
     "octavo_semestre/proyecto_emprendedor/definiciones.md",
