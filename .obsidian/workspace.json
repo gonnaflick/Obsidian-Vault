@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisis Interno.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisis Interno.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analisis Interno.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisis Interno.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -168,9 +168,10 @@
   },
   "active": "6139cdc18a87b8dd",
   "lastOpenFiles": [
+    "Analisis Interno.md",
+    "Untitled.md",
     "Analisis externo.md",
     "Asesoria.md",
-    "Analisis Interno.md",
     "Lunes 27 Marzo, Simulacion de sistemas.md",
     "Martes 28 de Marzo, Simulacion de sistemas.md",
     "octavo_semestre/taller_emprendedor/Investigacion de Mercado.md",
@@ -212,7 +213,6 @@
     "ruta/a/la/imagen.png.md",
     "octavo_semestre/administracion_computo/Practica 1.md",
     "octavo_semestre/administracion_computo/Untitled 1.md",
-    "octavo_semestre/administracion_computo/.md",
-    "2023-02-20.md"
+    "octavo_semestre/administracion_computo/.md"
   ]
 }
