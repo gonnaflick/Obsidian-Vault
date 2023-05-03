@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "23a5794a6ff3166f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,8 +83,17 @@
               "type": "mk-file-view",
               "state": {}
             }
+          },
+          {
+            "id": "c1e4ac2db4272e95",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -165,7 +185,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc535f196d201eb0",
+  "active": "23a5794a6ff3166f",
   "lastOpenFiles": [
     "Excalidraw/Martes 2 de Mayo, SImulacion de sistemas grafica 2.md",
     "Martes 2 de Mayo, Simulacion de sistemas.md",
