@@ -21,7 +21,7 @@ Algunos de los equipos necesarios y sus precios serían:
 	Máquina de pruebas de calidad ($70,000 USD)
 Estructura de gastos fijos: Nuestros costos fijos estarían conformados por los costos de energía, mantenimiento y reparación de los equipos de fabricación.
 Considerando un costo de mantenimiento de alrededor de 5% de los equipos ($504,200 USD), el gasto sería de aproximadamente $25,210 USD anuales. 
-Flujo de gastos variables: En cuanto a nuestros gastos variables tenemos el costo de los materiales, la mano de obra, así como el envío y distribución del producto.
+Flujo de gastos variables: En cuEstructura de gastos fijos: Nuestros costos fijos estarían conformados por los costos de energía, mantenimiento y reparación de los equipos de fabricación.anto a nuestros gastos variables tenemos el costo de los materiales, la mano de obra, así como el envío y distribución del producto.
 Tomando en cuenta los costos de los materiales nos da un costo de $15.2 USD por unidad
 Monto de la inversión: En base a la información anterior la inversión inicial para garantizar al menos un año de operaciones con una producción aproximada sería:
 	Costo de equipo ($504,200 USD)

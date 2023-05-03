@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Martes 2 de Mayo, Simulacion de sistemas.md",
+                "file": "Analisis Interno.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "23a5794a6ff3166f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Martes 2 de Mayo, Simulacion de sistemas.md",
+                "file": "Analisis Interno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Martes 2 de Mayo, Simulacion de sistemas.md",
+                "file": "Analisis Interno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Martes 2 de Mayo, Simulacion de sistemas.md"
+                "file": "Analisis Interno.md"
               }
             }
           },
@@ -185,15 +174,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23a5794a6ff3166f",
+  "active": "cc535f196d201eb0",
   "lastOpenFiles": [
-    "Excalidraw/Martes 2 de Mayo, SImulacion de sistemas grafica 2.md",
+    "Untitled 1.md",
     "Martes 2 de Mayo, Simulacion de sistemas.md",
+    "Lunes 27 Marzo, Simulacion de sistemas.md",
+    "Excalidraw/Martes 2 de Mayo, SImulacion de sistemas grafica 2.md",
     "Martes 28 de Marzo, Simulacion de sistemas.md",
     "Excalidraw/Martes 2 de Mayo, SImulacion de sistemas grafica 3.md",
     "Untitled.md",
     "Excalidraw/Martes 2 de Mayo, SImulacion de sistemas grafica 1.md",
-    "Lunes 27 Marzo, Simulacion de sistemas.md",
     "Analisis Interno.md",
     "Analisis externo.md",
     "Asesoria.md",
@@ -231,7 +221,6 @@
     "Excalidraw/Drawing 2023-02-24 22.00.38.excalidraw.md",
     "octavo_semestre/administracion_computo/Practica 1/etc/etc.md",
     "css/custom.css.md",
-    "Excalidraw/Drawing 2023-02-21 12.14.48.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-21 12.14.34.excalidraw.md"
+    "Excalidraw/Drawing 2023-02-21 12.14.48.excalidraw.md"
   ]
 }
