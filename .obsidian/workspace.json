@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "35f134379d2fc954",
+        "id": "d52a35f74b47543d",
         "type": "tabs",
         "children": [
           {
-            "id": "a621145e33d73ecf",
+            "id": "c9fa690c4603c93e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Martes 9 de Mayo, Simulacion de sistemas.md",
+                "file": "octavo_semestre/taller_emprendedor/Investigacion de Mercado.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "435f113f3242b056",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Martes 9 de Mayo, Simulacion de sistemas.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Martes 9 de Mayo, Simulacion de sistemas.md",
+                "file": "octavo_semestre/taller_emprendedor/Investigacion de Mercado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Martes 9 de Mayo, Simulacion de sistemas.md",
+                "file": "octavo_semestre/taller_emprendedor/Investigacion de Mercado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Martes 9 de Mayo, Simulacion de sistemas.md"
+                "file": "octavo_semestre/taller_emprendedor/Investigacion de Mercado.md"
               }
             }
           },
@@ -184,36 +173,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "435f113f3242b056",
+  "active": "c9fa690c4603c93e",
   "lastOpenFiles": [
-    "Martes 9 de Mayo, Simulacion de sistemas.md",
-    "Excalidraw/Martes 9 de Mayo, Simulacion de sistemas.md",
+    "octavo_semestre/proyecto_emprendedor/definiciones.md",
+    "Analisis externo.md",
+    "octavo_semestre/taller_emprendedor/etc/logo.png",
+    "octavo_semestre/taller_emprendedor/Investigacion de Mercado.md",
+    "octavo_semestre/taller_emprendedor/planteamiento.pdf",
+    "octavo_semestre/taller_emprendedor/Planteamiento.md",
+    "octavo_semestre/taller_emprendedor/Modelo Canvas.md",
+    "octavo_semestre/taller_emprendedor/modelo_canvas.pdf",
+    "octavo_semestre/taller_emprendedor/Investigacion de Mercado.pdf",
+    "Analisis Interno.md",
+    "Asesoria.md",
     "Lunes 8 de Mayo, Simulacion de sistemas.md",
+    "Martes 9 de Mayo, Simulacion de sistemas.md",
+    "Martes 28 de Marzo, Simulacion de sistemas.md",
+    "Untitled.md",
+    "Excalidraw/Martes 9 de Mayo, Simulacion de sistemas.md",
     "Martes 2 de Mayo, Simulacion de sistemas.md",
     "Lunes 27 Marzo, Simulacion de sistemas.md",
-    "Asesoria.md",
     "Excalidraw/Lunes 8 de Mayo, Simulacion de sistemas.md",
     "Excalidraw/Martes 2 de Mayo, SImulacion de sistemas grafica 1.md",
     "Excalidraw/Martes 2 de Mayo, SImulacion de sistemas grafica 3.md",
     "Excalidraw/Martes 2 de Mayo, SImulacion de sistemas grafica 2.md",
-    "Martes 28 de Marzo, Simulacion de sistemas.md",
-    "Untitled.md",
-    "Analisis Interno.md",
-    "Analisis externo.md",
-    "octavo_semestre/taller_emprendedor/Investigacion de Mercado.md",
-    "octavo_semestre/taller_emprendedor/Planteamiento.md",
-    "octavo_semestre/proyecto_emprendedor/definiciones.md",
     "octavo_semestre/taller_emprendedor/etc/dafo.png",
-    "octavo_semestre/taller_emprendedor/etc/logo.png",
     "octavo_semestre/taller_emprendedor/etc/Pasted image 20230315154913.png",
-    "octavo_semestre/taller_emprendedor/Investigacion de Mercado.pdf",
     "octavo_semestre/taller_emprendedor/etc/Pasted image 20230316224314.png",
     "octavo_semestre/taller_emprendedor/etc/Pasted image 20230316224308.png",
     "octavo_semestre/taller_emprendedor/etc/Pasted image 20230316224016.png",
     "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte - Prácticas de laboratorio.md",
-    "octavo_semestre/taller_emprendedor/planteamiento.pdf",
-    "octavo_semestre/taller_emprendedor/modelo_canvas.pdf",
-    "octavo_semestre/taller_emprendedor/Modelo Canvas.md",
     "octavo_semestre/proyecto_emprendedor",
     "octavo_semestre/microprocesadores/reporte_parcial-1/Reporte - Prácticas de laboratorio.pdf",
     "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-7/practica-7_evidencia.jpg",
@@ -230,7 +219,6 @@
     "octavo_semestre/redes_2/Clase 1.md",
     "FODA.drawio.png.md",
     "Select Note.md",
-    "octavo_semestre/administracion_computo/Practica 1/etc/link.md",
-    "Excalidraw/Drawing 2023-02-24 22.00.38.excalidraw.md"
+    "octavo_semestre/administracion_computo/Practica 1/etc/link.md"
   ]
 }
