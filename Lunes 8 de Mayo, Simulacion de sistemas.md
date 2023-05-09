@@ -51,7 +51,7 @@ for i=0 to n:
 	$$F_x(k)=\frac{1}{b-a}(k-a)$$
 	Y por lo tanto, dado $r=F_{x(k)}$ entonces:	$$r=F_x(k)=\frac{1}{b-a}(k-a)$$ Ahora hagamos $k=F^{-1}_x(r)$:
 	$$k=r(b-a)+a$$
-- En la bomba 17 de cierta gasolinera el que atiende entre las 10:00 y 12:00 tarda entre 2 y 6 minutos en atender un cliente. Simulemos el tiempo de atencion que esta persona tiene par alos primeros tres clientes. Modelemos el tiempo de atencion $t_{atiende}\Sigma U[2,6]$ lo que implica que:
+- En la bomba 17 de cierta gasolinera el que atiende entre las 10:00 y 12:00 tarda entre 2 y 6 minutos en atender un cliente. Simulemos el tiempo de atencion que esta persona tiene par alos primeros tres clientes. Modelemos el tiempo de atencion $t_{atiende}\,\Sigma\, U[2,6]$ lo que implica que:
 	$$f_{tatiende}(x)=\frac{1}{6-2}=\frac{1}{4}$$
 	Luego: 
 	$$k=F^{-1}(r)=4r+2$$
