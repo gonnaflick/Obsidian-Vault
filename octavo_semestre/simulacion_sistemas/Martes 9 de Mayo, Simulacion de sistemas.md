@@ -1,4 +1,4 @@
-Simulando una VA con distribucion normal
+## Simulando una VA con distribucion normal
 Recordemos que si $X$ es una VA con distribucion normal, con media $\mu$ y varianza $\sigma ^2$ (es decir $x \Sigma N(\mu \sigma ^2)$) entonces su funcion de densidad es:
 $$f_x(x)=\frac{1}{\sigma \sqrt{2 \pi}}e^{- \frac{(x- \mu)^2}{2 \sigma ^2}}$$
 Y su funcion de densidad acumulada es:

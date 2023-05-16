@@ -1,4 +1,4 @@
-Simulando en Python las respuestas (aproximadas)
+## Simulando en Python las respuestas (aproximadas)
 Una vez que contamoscon las aproximaciones de Euler a la respuesta de un sistema podemos pasar a su simulacion usando Puthon para ello solo recuerdese que:
 	1) Cualquier termino evaluado en $t=t_n$ es "el valor anterior".
 	2) Cualquier termino evaluado en $t=t_{n+1}$ es el "nuevo valor".

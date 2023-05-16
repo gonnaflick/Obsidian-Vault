@@ -1,4 +1,4 @@
-Ahora tenemos un sistema de tercer orden como el siguiente
+## Ahora tenemos un sistema de tercer orden como el siguiente
 
 $\frac{d^3y(t)}{dt^3}+22\frac22{d^2y(t)}{dt^2}+152\frac{dy(t)}{dt}+320y(t)=10x(t)$
 Debemos simular la respuesta de este sistema a la señal de entrada $x(t)=e^{-2t}$ para $0 \le t \le 10$ y usando $\Delta t=1$ y tambien considerando que:

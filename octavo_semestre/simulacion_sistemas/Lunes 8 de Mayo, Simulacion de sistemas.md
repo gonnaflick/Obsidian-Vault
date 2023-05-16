@@ -1,4 +1,4 @@
-Ahora si, simulando una VA con el metodo dela funcion inversa
+## Ahora si, simulando una VA con el metodo de la funcion inversa
 
 Primero, no todas las VA's se dejan simular con este metodo pero una VA con distribucion normal si que lo hace. Para comprender este metodo recordemos que:
 $$F_x(k)=\int_{- \infty}^{k}{f_{x}(x) \,}d_x$$
