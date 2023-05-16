@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0f73ad4c266e2668",
+        "id": "47dc5bc97286f3f4",
         "type": "tabs",
         "children": [
           {
-            "id": "a1d02e945249e275",
+            "id": "9b66a9e299ff5662",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "octavo_semestre/simulacion_sistemas/Martes 2 de Mayo, Simulacion de sistemas.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -101,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "octavo_semestre/simulacion_sistemas/Martes 2 de Mayo, Simulacion de sistemas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "octavo_semestre/simulacion_sistemas/Martes 2 de Mayo, Simulacion de sistemas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "octavo_semestre/simulacion_sistemas/Martes 2 de Mayo, Simulacion de sistemas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,21 +165,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a1d02e945249e275",
+  "active": "9b66a9e299ff5662",
   "lastOpenFiles": [
+    "Martes 16 de Mayo, Simulacion de sistemas.md",
+    "Excalidraw/simulacion_sistemas/Martes 16 de Mayo, Simulacion de sistemas 2.md",
+    "Excalidraw/simulacion_sistemas/Martes 16 de Mayo, Simulacion de sistemas.md",
+    "Excalidraw/simulacion_sistemas/Martes 16 de Mayo, Simulacion de sistemas 1 1.md",
+    "Excalidraw/simulacion_sistemas/Martes 16 de Mayo, Simulacion de sistemas 1.md",
+    "octavo_semestre/simulacion_sistemas/Martes 2 de Mayo, Simulacion de sistemas.md",
     "octavo_semestre/simulacion_sistemas/Lunes 27 Marzo, Simulacion de sistemas.md",
     "octavo_semestre/simulacion_sistemas/Jueves 11 de Mayo, Simulacion de sistemas.md",
     "octavo_semestre/simulacion_sistemas/Lunes 8 de Mayo, Simulacion de sistemas.md",
     "octavo_semestre/simulacion_sistemas/Martes 28 de Marzo, Simulacion de sistemas.md",
     "octavo_semestre/simulacion_sistemas/Martes 9 de Mayo, Simulacion de sistemas.md",
-    "octavo_semestre/simulacion_sistemas/Martes 2 de Mayo, Simulacion de sistemas.md",
     "Excalidraw/simulacion_sistemas/Martes 2 de Mayo, SImulacion de sistemas grafica 1.md",
     "Excalidraw/simulacion_sistemas/Lunes 8 de Mayo, Simulacion de sistemas.md",
     "Excalidraw/simulacion_sistemas/Martes 9 de Mayo, Simulacion de sistemas.md",
     "Excalidraw/simulacion_sistemas/Martes 2 de Mayo, SImulacion de sistemas grafica 3.md",
     "Excalidraw/simulacion_sistemas/Martes 2 de Mayo, SImulacion de sistemas grafica 2.md",
     "Excalidraw/simulacion_sistemas",
-    "Untitled.md",
     "octavo_semestre/taller_emprendedor/Asesoria.md",
     "octavo_semestre/taller_emprendedor/Analisis Interno.md",
     "octavo_semestre/taller_emprendedor/Analisis externo.md",
@@ -216,9 +212,6 @@
     "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-9/Untitled Sketch 9.fzz",
     "octavo_semestre/microprocesadores/reporte_parcial-1/etc/practica-final/Untitled Sketch 8.fzz",
     "practica-final_breadboard.svg.md",
-    "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
-    "octavo_semestre/redes_2/Clase 1.md",
-    "FODA.drawio.png.md",
-    "Select Note.md"
+    "octavo_semestre/administracion_computo/Practica 1/Practica 1.md"
   ]
 }
