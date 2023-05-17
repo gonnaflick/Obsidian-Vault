@@ -11,8 +11,12 @@
             "id": "9b66a9e299ff5662",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "octavo_semestre/simulacion_sistemas/Martes 9 de Mayo, Simulacion de sistemas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "octavo_semestre/simulacion_sistemas/Martes 9 de Mayo, Simulacion de sistemas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "octavo_semestre/simulacion_sistemas/Martes 9 de Mayo, Simulacion de sistemas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "octavo_semestre/simulacion_sistemas/Martes 9 de Mayo, Simulacion de sistemas.md"
+              }
             }
           },
           {
@@ -167,13 +175,13 @@
   },
   "active": "9b66a9e299ff5662",
   "lastOpenFiles": [
+    "octavo_semestre/simulacion_sistemas/Martes 2 de Mayo, Simulacion de sistemas.md",
+    "octavo_semestre/simulacion_sistemas/Lunes 27 Marzo, Simulacion de sistemas.md",
     "Martes 16 de Mayo, Simulacion de sistemas.md",
     "Excalidraw/simulacion_sistemas/Martes 16 de Mayo, Simulacion de sistemas 2.md",
     "Excalidraw/simulacion_sistemas/Martes 16 de Mayo, Simulacion de sistemas.md",
     "Excalidraw/simulacion_sistemas/Martes 16 de Mayo, Simulacion de sistemas 1 1.md",
     "Excalidraw/simulacion_sistemas/Martes 16 de Mayo, Simulacion de sistemas 1.md",
-    "octavo_semestre/simulacion_sistemas/Martes 2 de Mayo, Simulacion de sistemas.md",
-    "octavo_semestre/simulacion_sistemas/Lunes 27 Marzo, Simulacion de sistemas.md",
     "octavo_semestre/simulacion_sistemas/Jueves 11 de Mayo, Simulacion de sistemas.md",
     "octavo_semestre/simulacion_sistemas/Lunes 8 de Mayo, Simulacion de sistemas.md",
     "octavo_semestre/simulacion_sistemas/Martes 28 de Marzo, Simulacion de sistemas.md",
