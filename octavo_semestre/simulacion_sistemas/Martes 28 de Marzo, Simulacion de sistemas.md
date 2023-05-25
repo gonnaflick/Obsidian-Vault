@@ -14,7 +14,7 @@ El script de Python que simula esta repuesta es el siguiente:
 import numpy as np
 import matplotlib.pyplot as mpl
 
-def u(A,l,t):
+def u(A,k,t):
 	resp = 0
 	if t >= k:
 		resp = A

@@ -21,61 +21,68 @@ En este sistema dos son los eventos que mas nos importan, pues son los que cambi
 2) Y que salga un cliente
 La llegada de un cliente la vamosa denotar por su tiempo de llegada: cuantos minutos pasan desde la llegada del cliente anterior. Vamos a asumir que en este sistema **en promedio llega un cliente cada 5 minutos:**
 $$t_{llega}\Sigma N(5,1)$$
-Y la salida de un cliente del sistema la denotamos como $t_{sale}$, el tiempo que la lleva al servidor atenderlo, y bamos a asumir que **al servidor le toma entre 2 y 6 minutos atender a un cliente**, por lo que:
+Y la salida de un cliente del sistema la denotamos como $t_{sale}$, el tiempo que la lleva al servidor atenderlo, y vamos a asumir que **al servidor le toma entre 2 y 6 minutos atender a un cliente**, por lo que:
 $$t_{salida}\Sigma U[2,6]$$
 Ademas de $t_{llega}$ y $t_{sale}$ nos conviene contar en cualquier momento cuantos clientes estan formados en la fila, para ello usaremos la variable $nFila$ (que no es aleatoria).
 Y la simulacion es la siguiente:
 ```python
-import rndom as rnd
-def normal(m,v):
-	suma=0.0
-	for _ in range(12):
-		r=rnd.random()
-		suma+=r
-	prome=suma/12
-	tmp=(prome-0.5)/(1/12)
-	resp=tmp*v+m
-	return resp
+import random as rnd
 
-def uniforme(a,b):
-	r=rnd.random()
-	return r*(b-a)+a
+
+def normal(m, v):
+    suma = 0.0
+    for _ in range(12):
+        r = rnd.random()
+        suma += r
+    prome = suma/12
+    tmp = (prome-0.5)/(1/12)
+    resp = tmp*v+m
+    return resp
+
+
+def uniforme(a, b):
+    r = rnd.random()
+    return r*(b-a)+a
+
 
 def simula(tini, tfin, m, v, a, b):
-	t=tini
-	nFila=0
-	# Llegada del primer cliente
-	tllega=t+normal(m,v)
-	# Fila vacia, por lo tanto el tiempo de servicio del siguiente cliente es muy grande
-	tsale=1000
-	# Cuantos clientes atiende el servidor
-	nCLientes=0
+    t = tini
+    nFila = 0
+    # Llegada del primer cliente
+    tllega = t+normal(m, v)
+    # Fila vacia, por lo tanto el tiempo de servicio del siguiente cliente es muy grande
+    tsalida = 1000
+    # Cuantos clientes atiende el servidor
+    nClientes = 0
 
-	while t <= tfin:
-		if tllega<=salida:
-			t=tllega
-			if nFila==0:
-				# Salida del cliente si no habia nadie en la fila
-				tsalida=t+uniforme(a,b)
-			nFila+=1
-		else:
-			t=salida
-			nFila-=1
-			if nFila > 0:
-				# Salida del siguiente en la fila
-				tsalida=t+uniforme(a,b)
-			if nila==0:
-				# La fila esta vacia
-				tsalida=1000
-			nCLientes+=1
-		# Llegada del siguiente cliente a la fila
-		tllega=t+normal(5,1)
-	return nClientes
+    while t <= tfin:
+        if tllega <= tsalida:
+            t = tllega
+            if nFila == 0:
+                # Salida del cliente si no habia nadie en la fila
+                tsalida = t+uniforme(a, b)
+            nFila += 1
+        else:
+            t = tsalida
+            nFila -= 1
+            if nFila > 0:
+                # Salida del siguiente en la fila
+                tsalida = t+uniforme(a, b)
+            if nFila == 0:
+                # La fila esta vacia
+                tsalida = 1000
+            nClientes += 1
+        # Llegada del siguiente cliente a la fila
+        tllega = t+normal(5, 1)
+    return nClientes
+
 
 def ppal():
-	nAtendidos=simla(0,60,5,1,2,6)
-	print("El servidor atendido" + str(nAtendidos) + "clientes")
+    nAtendidos = simula(0, 60, 5, 1, 2, 6)
+    print("El servidor atendido " + str(nAtendidos) + " clientes")
 
-if  __name__ == "__main__":
-	ppal()
+
+if __name__ == "__main__":
+    ppal()
+
 ```
