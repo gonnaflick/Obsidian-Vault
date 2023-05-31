@@ -8,11 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28758a99435bbc7f",
+            "id": "0c9c16d58063ba92",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-05-31 14.03.26.excalidraw.md"
+              }
             }
           }
         ]
@@ -81,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a886d6060199fe6",
@@ -97,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2023-05-31 14.03.26.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2023-05-31 14.03.26.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2023-05-31 14.03.26.excalidraw.md"
+              }
             }
           },
           {
@@ -165,8 +172,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d35f6964a42176e1",
+  "active": "3631c1ac4f630324",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-05-31 14.03.26.excalidraw.md",
     "Excalidraw/simulacion_sistemas/Martes 23 de Mayo, Simulacion de sistemas.md",
     "Excalidraw/Drawing 2023-05-25 12.15.58.excalidraw.md",
     "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
