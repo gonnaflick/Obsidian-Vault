@@ -79,12 +79,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "7a886d6060199fe6",
@@ -172,7 +172,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3631c1ac4f630324",
+  "active": "0c9c16d58063ba92",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-05-31 14.03.26.excalidraw.md",
     "Excalidraw/simulacion_sistemas/Martes 23 de Mayo, Simulacion de sistemas.md",
