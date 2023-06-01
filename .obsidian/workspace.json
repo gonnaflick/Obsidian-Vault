@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b29fa7ad11591e5d",
+        "id": "13948543bcc39107",
         "type": "tabs",
         "children": [
           {
-            "id": "0c9c16d58063ba92",
+            "id": "27351893358c8350",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "41cb45ec94a15b81",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -17,7 +25,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,8 +180,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0c9c16d58063ba92",
+  "active": "41cb45ec94a15b81",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-06-01 13.57.01.excalidraw.md",
+    "Untitled.md",
     "Excalidraw/Drawing 2023-05-31 14.03.26.excalidraw.md",
     "Excalidraw/simulacion_sistemas/Martes 23 de Mayo, Simulacion de sistemas.md",
     "Excalidraw/Drawing 2023-05-25 12.15.58.excalidraw.md",
@@ -203,8 +213,6 @@
     "Excalidraw/simulacion_sistemas/Lunes 8 de Mayo, Simulacion de sistemas.md",
     "octavo_semestre/simulacion_sistemas/Martes 9 de Mayo, Simulacion de sistemas.md",
     "taller_emprendedor",
-    "octavo_semestre/simulacion_sistemas/Jueves 11 de Mayo, Simulacion de sistemas.md",
-    "octavo_semestre/simulacion_sistemas/Lunes 8 de Mayo, Simulacion de sistemas.md",
     "Excalidraw/simulacion_sistemas",
     "octavo_semestre/taller_emprendedor/Investigacion de Mercado.pdf",
     "octavo_semestre/taller_emprendedor/planteamiento.pdf",
