@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "13948543bcc39107",
+        "id": "b8376516c01e5dc1",
         "type": "tabs",
         "children": [
           {
-            "id": "27351893358c8350",
+            "id": "03ec837b83af3ee5",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "41cb45ec94a15b81",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-05-31 14.03.26.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -108,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-31 14.03.26.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-31 14.03.26.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-05-31 14.03.26.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,11 +166,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "41cb45ec94a15b81",
+  "active": "acd3a940accad50f",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-06-01 13.57.01.excalidraw.md",
     "Untitled.md",
     "Excalidraw/Drawing 2023-05-31 14.03.26.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-01 13.57.01.excalidraw.md",
     "Excalidraw/simulacion_sistemas/Martes 23 de Mayo, Simulacion de sistemas.md",
     "Excalidraw/Drawing 2023-05-25 12.15.58.excalidraw.md",
     "octavo_semestre/administracion_computo/Practica 1/Practica 1.md",
