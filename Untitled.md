@@ -68,3 +68,40 @@ Racional: estar dispuesto a deshacer todas las contradicciones
 Estr dispuesto a cambiar de ideas.
 
 Si cree mas de lo que racionalmente es posible, es dogmatica, si cree menos es esceptico
+
+
+# Doctrinarios y teoricos
+Racionalidad teorica individual
+	^
+    | <- Circulo iterativo
+	v
+Racionalidad teorica colectiva -> Ciencia -> Revision constante -> Realidad y conceptos
+|
+v
+Teoricos -> Cambio  (grupos que buscan un cambio constante)
+
+Colectivo de creencia ->  Dogmaticos -> COnservadores (grupos que buscan mantenerlas cosas como estan
+
+- Racionalidad teorica colectiva -> Grupo que busca un cambio
+- Colectivo de creencia -> Grupo que busca mantener un status quo
+
+Teoria (conjunto de hipotesis) -> COnceptos exactos y no emotivos -> Constante critica -> Predicciones: son claras, e indican que va a pasar -> A partir del fallo se puede determinar fallos, se hacen cambios, ajustes, hubo una equivocacion algo esta mal, hay que revisar que esta mal. 
+
+Dogmatico (conjunto de dogmas) [Dogma es algo que no se puede dudar] -> Conceptos poco claros y altamente emotivos -> Inmutable/Mantener -> Apologetica (sale la persona en defensa de su dogma) -> Profecia: no son claras, ambiguas, no nos dicen cuando -> Si falla, busca justificar el fallo, si cambian pero no reconocen el fallo, suelen cambiar porque lo determina la sociedad -> Suele seguir a sus adversarios
+
+
+Racionalidad Practica -> Tenemos que ser agentes activos 
+									-> Presume racionalidad teorica
+1. Saber lo que quieres (fines y metas)
+2. Conocimiento de medios (si nose cuales son los medios para llegar a un fin, entonces es irracional)
+3. Llevar a cabo las acciones (o evitarlas)
+4. Distinguir entre fines ultimos y fines intermedios (preferir los primeros)
+5. Compatibilidad de los fines ultimos (ver cuales fines van con otros)
+
+
+Pragmativos -> Revision -> Propuesta -> Cambiar - Provisional -> COnviene o no desde un punto de perspectiva poblacional abortar o no
+
+Morales -> Dogmatico -> Mandamiento -> Inmutable -> EL feminismo y la religion deciden desde una moral si esta bien o no abortar
+
+Racionalidad y felicidad
+
