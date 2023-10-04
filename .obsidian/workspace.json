@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2774cb5694b241d6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +174,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2774cb5694b241d6",
+  "active": "03ec837b83af3ee5",
   "lastOpenFiles": [
     "Untitled.md",
     "Excalidraw/Drawing 2023-05-31 14.03.26.excalidraw.md",

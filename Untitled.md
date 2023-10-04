@@ -105,3 +105,40 @@ Morales -> Dogmatico -> Mandamiento -> Inmutable -> EL feminismo y la religion d
 
 Racionalidad y felicidad
 
+# La ciencia sus metodos y su filosofia
+
+Mario Bunge
+
+Mundo artificial: teorias, metodologias, conceptos, etc -> Ciencia
+Humanos -> Mundo artificial -> Mundo real
+
+Cinecias formales  -> Matematica, Logico -> No son objetivas -> Trabajan con conceptos o ideas
+Ciencias faticas -> Biologia, quimica sociologia, psicologia, antropologia, fisica, geologia, politologia, computacion, contables -> Requiere de algun tipo de interpretacion -> Extracientificos -> Procesos y sucesos
+
+Formales -> Demostrar -> Satisfaccion
+Facticas -> Comprobar  -> Verificacion ->  Racionalidad Objetividad
+																							-> A) Conceptos, juicios y raciocinios
+																							-> B) Estaran acomodados segun ciertas reglas logicas
+																							-> C) Orden 
+																	-> Que concuerda con un objeto
+																							-> Que concuerda con un objeto
+																							-> Adaptacion Ides- hechos
+																									-> reproducir -> experimentos
+																							Ciencias experimentales y no experimentales -> eticas o tecnicas
+# Caracteristicas de las ciencias faticas
+
+1. El conocimiento cientifico es factico
+2. La ciencia trasciende a los hechos
+3. Es analitica -> Dividimos en elementos
+4. La investigacion cientifica es especializada
+5. El conocimiento cientifico es claro y preciso
+6. Es comunicable
+7. Es verificable
+8. La investigacion cientifica es metodica
+9. El conocimiento cientifico es sistematico
+10. Es general
+11. Es legal
+12. Es explicativa
+13. Es predictiva
+14. Es abierta
+15. Es util
