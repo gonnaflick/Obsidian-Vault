@@ -142,3 +142,46 @@ Facticas -> Comprobar  -> Verificacion ->  Racionalidad Objetividad
 13. Es predictiva
 14. Es abierta
 15. Es util
+
+# Eitca, ciencia y tecnica Mario Bunge
+
+La dictomia hecho-valor
+Dictomia -> Dos caminos a elegir
+
+Cinecia -> No formula juicios de valor
+				-> Verdadero / falso y no bueno / malo
+
+Axiologicamente neutrales?
+
+Axioma -> Axis: Eje -> Un camino a seguir -> Tambien significa valores -> Estudia los valores
+
+La ciencias matematicas no hace valoraciones
+Las ciencias sociales si hacen valoraciones
+
+se agota una ciencia natural en sus objetos de estudio?
+no solo se queda en sus contenidos sino que tambien hay una parte practica -> Reglas o desiderotas 
+
+Desiderotas -> Un deseo universal de que las cosas se an de una forma
+
+mologico -> es una regla sobre una regla
+metamologico -> una regla sobre como establecer reglas
+
+preferencias segun objetivos
+
+x es preferible a x' en las condiciones y para la finalidad D respecto a rx la unidad social u
+
+La ciencia es eticamente neutral?
+Porque no estudia el bien o lo bello? -> en si -> Parasitarios
+
+crea valores
+
+La etica de la ciencia y su corrupcion -> Robert k. merton
+
+cuatro reglas que sigue la comunidad cientifica
+
+1. Universalismo -> que aplique para la mayor cantidad de casos
+2. Comunismo o propiedad colectiva del conocimiento -> el conociemiento es de todos
+3. Desinteres o impersonalidad de los productos de investigacion -> Lo que importa es lo que se descubrio del conocimiento
+4. excepticismo organizado -> poner en duda bastante, vamos a creer despues de haber paszado ciertos tipos de examenes
+
+no hay peor ser humano del que vende el conocimiento
