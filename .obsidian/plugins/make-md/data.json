@@ -31,7 +31,11 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {},
+  "expandedFolders": {
+    "/": [
+      "noveno_semestre"
+    ]
+  },
   "expandedSpaces": [
     "/",
     null,
