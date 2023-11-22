@@ -6,5 +6,6 @@
     "custom",
     "formal",
     "no-table"
-  ]
+  ],
+  "baseFontSize": 17
 }
